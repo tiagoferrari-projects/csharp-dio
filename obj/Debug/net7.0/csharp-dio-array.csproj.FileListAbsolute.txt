@@ -1,0 +1,14 @@
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\bin\Debug\net7.0\csharp-dio-array.exe
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\bin\Debug\net7.0\csharp-dio-array.deps.json
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\bin\Debug\net7.0\csharp-dio-array.runtimeconfig.json
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\bin\Debug\net7.0\csharp-dio-array.dll
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\bin\Debug\net7.0\csharp-dio-array.pdb
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\obj\Debug\net7.0\csharp-dio-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\obj\Debug\net7.0\csharp-dio-array.AssemblyInfoInputs.cache
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\obj\Debug\net7.0\csharp-dio-array.AssemblyInfo.cs
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\obj\Debug\net7.0\csharp-dio-array.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\obj\Debug\net7.0\csharp-dio-array.dll
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\obj\Debug\net7.0\refint\csharp-dio-array.dll
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\obj\Debug\net7.0\csharp-dio-array.pdb
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\obj\Debug\net7.0\csharp-dio-array.genruntimeconfig.cache
+C:\Users\Tiago Ferrari\Documents\csharp-dio-array\obj\Debug\net7.0\ref\csharp-dio-array.dll
